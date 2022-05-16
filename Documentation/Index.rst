@@ -62,6 +62,14 @@ a GNU/GPL CMS/Framework available from `www.typo3.org <http://www.typo3.org/>`_.
 
 Sponsors
 ============
+**in2code.de**
+
+* Website: https://www.in2code.de/
+
+**Hannes Lau**
+
+* Website: https://hanneslau.de/
+
 **hemmer.ch SA**
 
 * Rue du Criblet 9
@@ -78,4 +86,4 @@ Special thanks to
 ==================
 **TRITUM GmbH**
 
-* https://www.tritum.de for helping with the update to TYPO3 V10
+* https://www.tritum.de for helping with the update to TYPO3 V10 and V11
